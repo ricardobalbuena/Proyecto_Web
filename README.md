@@ -1,7 +1,7 @@
 # ProyectoWeb
 
 ### Uso
-### MongoDB
+### MongoDB + Js + Nodejs 
 
 ```sh
 $ npm install
